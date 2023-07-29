@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\bin\Debug\AttributeFormsOrnegi.exe.config
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\bin\Debug\AttributeFormsOrnegi.exe
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\bin\Debug\AttributeFormsOrnegi.pdb
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\obj\Debug\AttributeFormsOrnegi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\obj\Debug\AttributeFormsOrnegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\obj\Debug\AttributeFormsOrnegi.Form1.resources
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\obj\Debug\AttributeFormsOrnegi.Properties.Resources.resources
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\obj\Debug\AttributeFormsOrnegi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\obj\Debug\AttributeFormsOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\obj\Debug\AttributeFormsOrnegi.exe
+C:\Users\PC\Desktop\BTK Akademi\Üçüncü Gün\AttributrBTKOrnek\AttributeForms\AttributeFormsOrnegi\AttributeFormsOrnegi\obj\Debug\AttributeFormsOrnegi.pdb

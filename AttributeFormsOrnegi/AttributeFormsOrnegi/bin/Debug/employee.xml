@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>dfsdfs</Name>
+  <Phone>2312321</Phone>
+  <DoB>2023-07-29T12:27:11.836058+03:00</DoB>
+  <Department>asdas</Department>
+  <Salary>231231</Salary>
+  <additonalInfo>Serileşme istemiyoruz</additonalInfo>
+</Employee>
